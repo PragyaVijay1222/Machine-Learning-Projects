@@ -1,0 +1,59 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going"],
+            "responses": ["Hello!", "Hey!", "What can I do for you?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["bye", "goodbye", "see you later", "take care"],
+            "responses": ["Goodbye!", "See you later!", "Have a great day!"]
+        },
+        {
+            "tag": "age",
+            "patterns": ["how old are you?", "what's your age?", "can I know your age?"],
+            "responses": ["I don't have an age, but I'm here to help you!", "Age is just a number, and I don't have one."]
+        },
+        {
+            "tag": "name",
+            "patterns": ["what's your name?", "who are you?", "can I know your name?"],
+            "responses": ["I'm your friendly assistant.", "You can call me your AI helper."]
+        },
+        {
+            "tag": "shop",
+            "patterns": ["I'd like to buy something", "can I shop here?", "what do you sell?", "what are your produts?"],
+            "responses": ["We have a variety of items. What are you looking for?", "Feel free to browse our selection."]
+        },
+        {
+            "tag": "hours",
+            "patterns": ["what are your working hours?", "when are you open?", "what time do you close?"],
+            "responses": ["We are open from 9 AM to 9 PM every day.", "Our hours are 9 AM to 9 PM daily."]
+        },
+        {
+            "tag": "location",
+            "patterns": ["where are you located?", "how can I find your store?", "what's your address?"],
+            "responses": ["We are located at 123 Book Street, Cityville.", "You can find us at 123 Book Street, Cityville."]
+        },
+        {
+            "tag": "returns",
+            "patterns": ["what is your return policy?", "can I return a book?", "how do I return an item?"],
+            "responses": ["You can return a book within 30 days of purchase with the receipt.", "Our return policy allows returns within 30 days with proof of purchase."]
+        },
+        {
+            "tag": "genres",
+            "patterns": ["do you have fiction books?", "what genres do you offer?", "can I find non-fiction here?"],
+            "responses": ["We offer a wide range of genres including fiction, non-fiction, fantasy, mystery, and more.", "Yes, we have a variety of genres to choose from."]
+        },
+        {
+            "tag": "best_sellers",
+            "patterns": ["what are your best sellers?", "do you have any popular books?", "can you recommend a book?"],
+            "responses": ["Our best sellers include 'The Great Novel', 'Mystery Mansion', and 'Science Wonders'.", "Sure! Our popular books right now are 'The Great Novel', 'Mystery Mansion', and 'Science Wonders'."]
+        },
+        {
+            "tag": "membership",
+            "patterns": ["do you have a membership program?", "how can I join your book club?", "what are the benefits of your membership?"],
+            "responses": ["Yes, we offer a membership program with exclusive discounts and early access to new releases.", "You can join our book club to enjoy benefits like exclusive discounts and early access to new books."]
+        }
+    ]
+}
