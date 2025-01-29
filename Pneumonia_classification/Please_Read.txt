@@ -1,0 +1,3 @@
+Data set used: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+WARNING: This project is very large and heavy, for minimizing the time consumed please use GPU. If not possible then CPU can also be used but 
+for epoch 10 total time solely on training could be upto 2 hours.
