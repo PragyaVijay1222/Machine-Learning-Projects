@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hey",
+      "answer": "Hi, how can I help you?"
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I am your go-to chat bot"
+    },
+    {
+      "question": "Do you know my today's project",
+      "answer": "You made a chat bot with python today"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hi, How can I help you?"
+    },
+    {
+      "question": "Do you know my name?",
+      "answer": "It's Pragya Vijay"
+    }
+  ]
+}
