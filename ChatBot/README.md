@@ -73,8 +73,6 @@ This file stores structured data containing frequently asked bookstore-related q
 
 ## 📌 How to Run  
 1️⃣ Install dependencies:  
-   ```bash
    pip install nltk tensorflow json pickle numpy
-
-2️⃣ **Run** `training.ipynb` **to train the model.**  
+2️⃣ Run `training.ipynb` **to train the model.**  
 3️⃣ **Execute** `chatbot.ipynb` **to interact with the chatbot.**  
